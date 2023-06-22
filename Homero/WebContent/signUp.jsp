@@ -7,7 +7,7 @@
 <title>Homero!</title>
 </head>
 <body>
-<h1>サインアップ</h1>
+<h1>アカウント登録</h1>
 <form action="/Homero/SignUp"method="post">
 <input type="text"name=userId placeholder="User ID"required><br>
 <input type="password"name=pass placeholder="Password"required><br>
